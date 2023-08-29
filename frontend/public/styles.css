@@ -1,0 +1,189 @@
+:root {
+  --progressBar: #54d1db;
+}
+.absolute {
+  position: absolute !important;
+}
+.relative {
+  position: relative !important;
+}
+
+.flex {
+  display: flex !important;
+}
+.flex-col {
+  flex-direction: column !important;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.spanLikesList:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.mySpinner {
+  border: 5px solid #f3f3f3;
+  border-top: 5px solid #1995b8;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 0.8s linear infinite;
+  margin: auto;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.refreshIcon {
+  text-align: center;
+}
+
+.menuCol {
+  min-height: 100vh;
+  position: relative !important;
+  background: rgb(10, 18, 26);
+
+}
+
+
+.menuCol.searchCol {
+  padding: 0 !important;
+  background-color: rgb(14, 25, 36);
+}
+
+.stickyCol .ui.icon.input,
+.stickyCol .results.transition {
+  width: 99% !important;
+}
+
+.stickyCol {
+  position: sticky;
+  top: 1rem;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.menuRow {
+  width: 100%;
+  margin-bottom: 5px;
+  align-items: center !important;
+  gap: 7px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color:  #fbfaffbf;
+
+}
+
+.menuRow.active,
+.menuRow:hover {
+  background-color: rgb(30, 53, 77);
+  color: rgb(242, 238, 238);
+  border: 2px solid #3795BD;
+  border-radius: 20px;
+}
+
+.menuIconBadge {
+  position: absolute;
+  top: -3px;
+  right: -15px;
+  height: 10px;
+  width: 10px;
+  background-color: orange;
+  border-radius: 99999px;
+}
+
+.menuIconBadge.mobile {
+  top: -5px;
+  right: -0.5px;
+}
+
+.cardDescription {
+  margin-top: 1rem;
+  font-size: 17px;
+  letter-spacing: 0.1px;
+  word-spacing: 0.35px;
+}
+
+body {
+  background-color: rgb(14, 25, 36);
+  color:  #fbfaffbf;
+}
+
+button {
+  border: none;
+  padding: 9px 18px;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  background-color: rgb(30, 53, 77) !important;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: rgb(22, 43, 65) !important;
+  border: 2px solid #3795BD;
+}
+input:focus-visible{
+  outline: 2px solid #3795BD;
+}
+
+textarea:focus-visible{
+  outline:  2px solid #3795BD;
+
+}
+
+.ui.form textarea, input{
+  background-color: rgb(41, 51, 64) !important;
+  color: #f3f3f3 !important;
+}
+
+.ui.form .icon{
+  color: #f3f3f3 !important;
+}
+label{
+  color: #f3f3f3 !important;
+}
+
+.card{
+  background-color: rgb(14, 25, 36) !important;
+  color: #f3f3f3 !important;
+}
+.card .meta, .description, span{
+  color: #f3f3f3 !important;
+}
+
+.ui.comments .comment .text {
+  color:   #f3f3f3 !important;
+}
+
+.ui.comments .segment, .ui.comments .segment .content, .ui.comments .segment .author, .ui.comments .segment .metadata{
+  background-color:  rgb(10, 18, 26) !important;
+  color: #f3f3f3 !important;
+}
+
+.ui.teal.top.attached.segment, .ui.teal.secondary.bottom.attached.segment{
+  background-color:  rgb(66, 82, 102) !important;
+  color: #f3f3f3 !important;
+  border: 1px solid #1679cf !important;
+}
+.ui.teal.raised.segment{
+  background-color:  rgb(41, 51, 64) !important;
+  color: #f3f3f3 !important;
+  border: 1px solid #1679cf !important;
+}
+
+.ui.icon.info.message{
+  background-color:  rgb(41, 51, 64) !important;
+  color: #f3f3f3 !important;
+  border: 1px solid #1679cf !important;
+  border-radius: 5px;
+}
+

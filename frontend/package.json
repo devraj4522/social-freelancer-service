@@ -1,0 +1,51 @@
+{
+  "name": "social-media-udemy-course",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Bhushan",
+    "email": "bhushan@gmail.com",
+    "url": "https://google.com"
+  },
+  "repository": "https://github.com/inderrr/social-media-udemy-course.git",
+  "homepage": "https://www.udemy.com/course/mernstack-nextjs-withsocketio/?referralCode=A31CAC3FD91000489D0A",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@stripe/react-stripe-js": "^2.1.1",
+    "@stripe/stripe-js": "^1.54.2",
+    "@tanstack/react-query": "^4.32.0",
+    "antd": "^5.8.1",
+    "axios": "^1.4.0",
+    "dayjs": "^1.11.8",
+    "js-cookie": "3.0.5",
+    "moment": "^2.29.4",
+    "next": "^13.4.7",
+    "nookies": "^2.5.2",
+    "nprogress": "^0.2.0",
+    "react": "^18.2.0",
+    "react-cropper": "^2.3.3",
+    "react-dom": "^18.2.0",
+    "react-infinite-scroll-component": "6.1.0",
+    "react-redux": "^8.1.2",
+    "react-toastify": "^9.1.3",
+    "redux": "^4.2.1",
+    "sass": "^1.64.1",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.4",
+    "socket.io-client": "^4.7.1",
+    "usehooks-ts": "^2.9.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.43.0",
+    "eslint-config-next": "^13.4.7",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  }
+}

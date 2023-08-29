@@ -1,0 +1,35 @@
+# Node.js dependencies
+/node_modules
+
+# Build files
+/.next
+/out
+/.vercel
+
+# Environment variables
+/.env.local
+/.env.build
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac OS specific files
+.DS_Store
+
+# Editor and IDE files
+/.vscode
+.idea
+
+# Package-lock files
+package-lock.json
+yarn.lock
+
+# Cache files
+.next
+node_modules
+.next/cache
+
+.next
