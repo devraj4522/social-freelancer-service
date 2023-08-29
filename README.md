@@ -9,13 +9,13 @@ This is the frontend for the Social Freelance App. It is built with Next JS, Tai
 ## Live Demo
 [Social Freelance App](https://social-freelance-client.vercel.app/demo)
 ```
-Use this demo account to login for seller:
+Use this demo account to login for buyer:
 Email:
 testbuyer@gmail.com
 Password:
 testbuyer
 
-Use this demo account to login for buyer:
+Use this demo account to login for seller:
 Email:
 abhisellersell@gmail.com
 Password:
