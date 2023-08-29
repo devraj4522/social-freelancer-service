@@ -13,6 +13,19 @@ This is the frontend for the FreelanceX App. It is built with Next JS, Tailwind 
 
 
 
+**Use this demo account to login for buyer**
+
+Email: testbuyer@gmail.com
+
+Password: testbuyer
+
+**Use this demo account to login for seller**
+
+Email: abhisellersell@gmail.com
+
+Password: devraj
+
+
 ## Screenshots
 
 
@@ -49,19 +62,6 @@ This is the frontend for the FreelanceX App. It is built with Next JS, Tailwind 
 ![Screenshot from 2023-08-29 23-55-13](https://github.com/devraj4522/social-freelancer-service/assets/55313450/29060e56-a9c9-43df-b8e4-0a363d18a0b0)
 
 
-```
-Use this demo account to login for buyer:
-Email:
-testbuyer@gmail.com
-Password:
-testbuyer
-
-Use this demo account to login for seller:
-Email:
-abhisellersell@gmail.com
-Password:
-devraj
-```
 [Backend API Server](https://freelance-api-e05a.onrender.com/)
 
 
