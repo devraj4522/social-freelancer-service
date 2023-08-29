@@ -8,6 +8,7 @@ This is the frontend for the FreelanceX App. It is built with Next JS, Tailwind 
 
 ## Live Demo
 **Live Demo Link**
+
 [![FreelanceX Demo](https://img.shields.io/badge/Demo-Button-blue.svg)](https://social-freelance-client.vercel.app/demo)
 
 
