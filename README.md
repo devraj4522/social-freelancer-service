@@ -1,5 +1,5 @@
-# Social Freelance Client
-This is the frontend for the Social Freelance App. It is built with Next JS, Tailwind CSS, Semantic UI, React, Redux, React Query, React Hook Form, Ant Design. User can make connection with people who are looking for work and also can manage their work with the help of work management tool. User can also make payment for the work with the help of Stripe.
+# FreelanceX Client
+This is the frontend for the FreelanceX App. It is built with Next JS, Tailwind CSS, Semantic UI, React, Redux, React Query, React Hook Form, Ant Design. User can make connection with people who are looking for work and also can manage their work with the help of work management tool. User can also make payment for the work with the help of Stripe.
 
 ## Services Built
 - [x] Social Media App
@@ -7,7 +7,10 @@ This is the frontend for the Social Freelance App. It is built with Next JS, Tai
 - [x] Work Management Tool where user can manage their work and team. They can track projects and milestones, manage tasks, and collaborate with their team.
 
 ## Live Demo
-[Social Freelance App](https://social-freelance-client.vercel.app/demo)
+**Live Demo Link**
+
+<a style="background-color: #0074d9; color: white; padding: 6px 9px; border-radius: 5px; text-decoration: none; display: inline-block;" href="https://social-freelance-client.vercel.app/demo">FreelanceX</a>
+
 
 ## Screenshots
 
