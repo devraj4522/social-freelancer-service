@@ -8,6 +8,8 @@ This is the frontend for the Social Freelance App. It is built with Next JS, Tai
 
 ## Live Demo
 [Social Freelance App](https://social-freelance-client.vercel.app/demo)
+![image](https://github.com/devraj4522/social-freelancer-service/assets/55313450/d7acb647-f1b5-4ccf-98df-6737758e8fdd)
+
 ```
 Use this demo account to login for buyer:
 Email:
